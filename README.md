@@ -1,10 +1,9 @@
 # elo-ssn3
 
-__A Tale of Two Seasons__
+## A Tale of Two Seasons
 DINOBOTS FC vs NEW YORK LINDYMEN
-
-DINOBOTS FC: Season Low: 1408, Season High: 1620, Final: 1589
-NEW YORK LINDYMEN: Season Low: 1422, Season High: 1517, Final: 1514
+> DINOBOTS FC: Season Low: 1408, Season High: 1620, Final: 1589  
+> NEW YORK LINDYMEN: Season Low: 1422, Season High: 1517, Final: 1514
 
 Surprisingly, and not evident by the final standings, the Dinobots and the Lindymen actually follow a very similar trajectory. Although the Dinobots reached a much higher season-high rating, their final ratings are not as far apart, and New York actually had a higher minimum rating. The Lindymen started the season with a close 2-goal loss to the Dinobots, and their ratings followed closely until they began to diverge after game 9. The Lindymen suffered a bad loss to the Hotdoges while the Dinobots crushed the Tigers. Then, in their chance to recover, the Lindymen lost game 10 to the Dinobots by 1 goal in OT, seemingly the nail in the coffin. The Lindymen tried to right the ship and ended up with the highest Elo rating of all non-playoff teams by far, even higher than some playoff teams, but the damage had already been done. If New York had won even 1 of the extremely close games against the Dinobots, the playoffs might've had a vastly different outcome.
 
