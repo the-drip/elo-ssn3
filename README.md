@@ -7,6 +7,8 @@ DINOBOTS FC vs NEW YORK LINDYMEN
 
 Surprisingly, and not evident by the final standings, the Dinobots and the Lindymen actually follow a very similar trajectory. Although the Dinobots reached a much higher season-high rating, their final ratings are not as far apart, and New York actually had a higher minimum rating. The Lindymen started the season with a close 2-goal loss to the Dinobots, and their ratings followed closely until they began to diverge after game 9. The Lindymen suffered a bad loss to the Hotdoges while the Dinobots crushed the Tigers. Then, in their chance to recover, the Lindymen lost game 10 to the Dinobots by 1 goal in OT, seemingly the nail in the coffin. The Lindymen tried to right the ship and ended up with the highest Elo rating of all non-playoff teams by far, even higher than some playoff teams, but the damage had already been done. If New York had won even 1 of the extremely close games against the Dinobots, the playoffs might've had a vastly different outcome.
 
+![](dinobots-vs-newyork.png)
+
 __The Heartbreaker and the Comeback__
 FLYING QUACKHEADS vs VADERS VENGEANCE
 
