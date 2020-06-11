@@ -10,7 +10,7 @@ Surprisingly, and not evident by the final standings, the Dinobots and the Lindy
 ![](dinobots-vs-newyork.png)
 
 ## The Heartbreaker and the Comeback
-FLYING QUACKHEADS vs VADERS VENGEANCE
+#### FLYING QUACKHEADS vs VADERS VENGEANCE
 > FLYING QUACKHEADS: Season Low: 1368, Season High: 1590, Final: 1368  
 > VADERS VENGEANCE: Season Low: 1407, Season High: 1566, Final: 1542
 
@@ -19,7 +19,7 @@ You might not know it but the Quackheads got to one of the hottest starts in the
 ![](vaders-vs-quackheads.png)
 
 ## The Middle of the Pack
-7-UP vs TSUROSAME
+#### 7-UP vs TSUROSAME
 > 7-UP: Season Low: 1444, Season High: 1571, Final: 1492  
 > TSUROSAME: Season Low: 1432, Season High: 1533, Final: 1453
 
@@ -28,7 +28,7 @@ These two teams jostled for position as the last team in the playoffs for the en
 ![](7up-vs-tsurosame.png)
 
 ## The Biggest Upset
-CHEYENNE CZAICZAISH vs ISTANBUL TIGERS
+#### CHEYENNE CZAICZAISH vs ISTANBUL TIGERS
 > CHEYENNE CZAICZAISH: Season Low: 1444, Season High: 1571, Final: 1492  
 > ISTANBUL TIGERS: Season Low: 1374, Season High: 1545, Final: 1464
 
@@ -37,7 +37,7 @@ These teams both had very up-and-down seasons. Prior to their game-13 matchup, C
 ![](cheyenne-vs-tigers.png)
 
 ## Destined for Greatness
-FRANKFURT HOTDOGES vs GOLDEN BOIS
+#### FRANKFURT HOTDOGES vs GOLDEN BOIS
 > FRANKFURT HOTDOGES: Season Low: 1486, Season High: 1629, Final: 1515  
 > GOLDEN BOIS: Season Low: 1452, Season High: 1561, Final: 1561
 
