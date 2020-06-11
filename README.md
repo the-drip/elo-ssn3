@@ -1,7 +1,7 @@
 # Spacebounce Season 3 Elo Recap
 
 ## A Tale of Two Seasons
-DINOBOTS FC vs NEW YORK LINDYMEN
+#### DINOBOTS FC vs NEW YORK LINDYMEN
 > DINOBOTS FC: Season Low: 1408, Season High: 1620, Final: 1589  
 > NEW YORK LINDYMEN: Season Low: 1422, Season High: 1517, Final: 1514
 
